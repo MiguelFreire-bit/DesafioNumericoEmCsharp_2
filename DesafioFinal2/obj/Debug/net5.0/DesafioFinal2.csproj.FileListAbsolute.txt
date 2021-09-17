@@ -1,0 +1,16 @@
+C:\Users\Migue\source\repos\DesafioFinal2\DesafioFinal2\bin\Debug\net5.0\DesafioFinal2.exe
+C:\Users\Migue\source\repos\DesafioFinal2\DesafioFinal2\bin\Debug\net5.0\DesafioFinal2.deps.json
+C:\Users\Migue\source\repos\DesafioFinal2\DesafioFinal2\bin\Debug\net5.0\DesafioFinal2.runtimeconfig.json
+C:\Users\Migue\source\repos\DesafioFinal2\DesafioFinal2\bin\Debug\net5.0\DesafioFinal2.runtimeconfig.dev.json
+C:\Users\Migue\source\repos\DesafioFinal2\DesafioFinal2\bin\Debug\net5.0\DesafioFinal2.dll
+C:\Users\Migue\source\repos\DesafioFinal2\DesafioFinal2\bin\Debug\net5.0\ref\DesafioFinal2.dll
+C:\Users\Migue\source\repos\DesafioFinal2\DesafioFinal2\bin\Debug\net5.0\DesafioFinal2.pdb
+C:\Users\Migue\source\repos\DesafioFinal2\DesafioFinal2\obj\Debug\net5.0\DesafioFinal2.csproj.AssemblyReference.cache
+C:\Users\Migue\source\repos\DesafioFinal2\DesafioFinal2\obj\Debug\net5.0\DesafioFinal2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\DesafioFinal2\DesafioFinal2\obj\Debug\net5.0\DesafioFinal2.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\DesafioFinal2\DesafioFinal2\obj\Debug\net5.0\DesafioFinal2.AssemblyInfo.cs
+C:\Users\Migue\source\repos\DesafioFinal2\DesafioFinal2\obj\Debug\net5.0\DesafioFinal2.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\DesafioFinal2\DesafioFinal2\obj\Debug\net5.0\DesafioFinal2.dll
+C:\Users\Migue\source\repos\DesafioFinal2\DesafioFinal2\obj\Debug\net5.0\ref\DesafioFinal2.dll
+C:\Users\Migue\source\repos\DesafioFinal2\DesafioFinal2\obj\Debug\net5.0\DesafioFinal2.pdb
+C:\Users\Migue\source\repos\DesafioFinal2\DesafioFinal2\obj\Debug\net5.0\DesafioFinal2.genruntimeconfig.cache
